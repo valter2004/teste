@@ -1,11 +1,13 @@
-// teste
-#include <stdio.h>\n
-#include <stdlib.h>\n
+    teste
+
+    #include <stdio.h>\n
+    #include <stdlib.h>\n
 
 
 
-int main()
-{
+    int main()
+    {
+    
     int num1, num2, soma, subtracao, multi, div;
 
     printf("Calculadora 1.0\n");
@@ -23,4 +25,4 @@ int main()
     printf( "A divisão e: %i \n", div );
 
     return 0;
-}
+    }
